@@ -64,5 +64,3 @@ contract Lottery{
     }
     }
 
-    //0x138FDdfBF4344838F9A37a14E255A6304373eC69
-    //Ganache - 0xD7fdDC8D7fA93F5599EC49f7cf413D53C1870C31
